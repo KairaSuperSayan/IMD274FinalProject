@@ -1,1 +1,1 @@
-# IMD274FinalProject
+# IMD274Project
